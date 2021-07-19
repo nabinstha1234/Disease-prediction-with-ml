@@ -44,3 +44,13 @@ body {font-family: Arial, Helvetica, sans-serif;}
 .btn:hover {
   opacity: 1;
 }
+
+form{
+  max-width: 530px;
+  margin: auto;
+  background: #3d155f;
+  padding: 20px;
+  border-radius: 10px;
+  color: #ffffff;
+  border: 5px solid;
+}
