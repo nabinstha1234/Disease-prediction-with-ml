@@ -82,9 +82,9 @@ WSGI_APPLICATION = 'disease_prediction.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dps',
-        'USER': 'recodoc',
-        'PASSWORD': 'recodoc',
+        'NAME': 'recodoc',
+        'USER': 'rocdoc',
+        'PASSWORD': 'Test123',
         'HOST': 'localhost'
     }
 }
